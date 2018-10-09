@@ -1,0 +1,25 @@
+.logo {
+	margin-right:8px !important;
+}
+
+.social {
+	margin:40px 0px;
+}
+
+.social a {
+	margin-bottom:16px !important;
+}
+
+.copyright {
+	font-size: smaller;
+	color:#777777;
+}
+
+article {
+	padding-bottom:16px;
+	color: grey;
+}
+
+.tagcloud div.ui.label {
+	margin:2px !important;
+}
